@@ -1,1 +1,3 @@
-# react-playlist
+# react-spotify-lesson
+
+For public
