@@ -1,0 +1,26 @@
+.playlist {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
+
+.headerContent {
+  position: fixed;
+  z-index: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  box-shadow: 0 0.5px 1px gray; }
+
+.counterContent,
+.searchContent {
+  display: flex;
+  flex-direction: row; }
+
+.counterContent {
+  margin: 0 10px; }
